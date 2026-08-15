@@ -9,7 +9,7 @@ Hi, I'm Adebola! 👋
 I'm a Computer Science student on a mission to become a software engineer.
 
 ## Current Progress
-✅ Day 7 / 100
+✅ Day 8 / 100
 
 ## What I've Learned
 - Variables
@@ -23,6 +23,7 @@ I'm a Computer Science student on a mission to become a software engineer.
 - creating lists
 - combining loops with list
 - creating Dictionaries
+- Learned more about dictionaries — keys, values, items & looping through them.
 
 ## Goal
 To become a skilled software engineer by consistently building projects and learning every day.
